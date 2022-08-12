@@ -1,0 +1,21 @@
+@import url("http://fonts.cdnfonts.com/css/cyberverse");
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.container {
+  margin: 0;
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.clock {
+  font-family: "Cyberverse", sans-serif;
+  font-size: 2rem;
+  color: orange;
+}
